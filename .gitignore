@@ -1,0 +1,33 @@
+```
+# Flutter/Dart
+.dart_tool/
+.build/
+flutter/
+packages/
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+*.keystore
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcodeproj/
+*.xcworkspace/
+
+# Dependencies
+pubspec.lock
+**/lib/cache/
+**/lib/generated/
+
+# Logs
+*.log
+**/logs/
+
+# Environment variables
+.env
+.env.local
+.env.*
+```
